@@ -2,7 +2,9 @@
 # 8-23-2023
 # welcome.py
 
-# This program uses input to prompt a user for their name and then welcomes them. Bonus if you can get the system time and then adjust your greeting to "Good morning, good afternoon, or good evening.
+# This program uses input to prompt a user for their name and then welcomes them. 
+# Bonus if you can get the system time and then adjust your greeting to "Good morning,
+# good afternoon, or good evening.
 
 # Getting the system time
 import time
